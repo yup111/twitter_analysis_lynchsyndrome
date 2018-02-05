@@ -19,7 +19,7 @@ Contact person: Jiang Bian, ji0ng.bi0n@gmail.com
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
-> This repository contains the tweet ids for fething the data we used in twitter lynch study. The file location is .... 
+> This repository contains the tweet ids for fething the data we used in twitter lynch study. The file location is `./Lynch_tweet_ids.json` 
 
 # Dataset Collection
 ## Step one. Install tweet crawler

@@ -1,4 +1,4 @@
-# Tweets related to lynch syndrome
+# Tweet Lynch Syndrome Data Analysis
 
 In the following introduction you will learn how to use our tweets collecting tool (tweetf0rm) to fetch the Twitter data which is described in our twitter lynch paper, [Using Social Media Data to Understand the Impact of Promotional Information on Laypeople’s Discussions: A Case Study of Lynch Syndrome](https://www.jmir.org/2017/12/e414).
  
@@ -64,5 +64,5 @@ In general,
 
 
 ```
-python twitter_tracker.py -c ../twittertracker-config/config_i0mf0rmer08.json -o data/tweets_id_range -cmd tweets_by_id -cc test_data/tweets_id.json
+python twitter_tracker.py -c ./config.json -o data/tweets_lynch_syndrome -cc ./Lynch_tweet_ids.json -cmd tweets_by_id
 ```
